@@ -1,0 +1,26 @@
+HISTORIA ///TITULO///DESCRIPCION	
+
+-US01 /// Registro con mi cuenta Gmail ///Como usuario de la aplicación quiero registrarme a la aplicación con mi cuenta de Gmail 
+-US02 /// Seccion de mensajeria para los usuarios /// Como dueño de negocio quiero una opcion de mensajeria para que el cliente pueda comunicarse con mi negocio en la aplicacion.
+-US03 /// Numero nuevo en el perfil /// Como usuario de la aplicación quiero agregar un nuevo número  para actualizar mi información 
+-US04 /// Registro de los usuarios que utilizan mas la aplicacion /// Como administrador de la aplicacion quiero obtener los usuarios que utilizan mas la aplicacion para brindarles mas beneficios
+-US05 /// Filtrar lugares turisticos por gustos del usuario /// Como cliente de la aplicacion quiero seleccionar los gustos que tengo en los lugares turisticos para que me recomiende lugares extraordinarios. 
+-US18 /// Dirigirse de forma rapida a una seccion en el Landing Page /// Como visitante del Landing Page quiero moverme de manera rápida a una determinada sección sin tener que hacer uso del scrol
+-US06 /// Registro de lugares mas visitados ///	Como administrador de la aplicacion quiero acceder a la informacion de los lugares mas visitados. 
+-US07 /// Registro en la aplicacion /// Como usuario   quiero registrarme a la aplicacion para acceder de sus beneficios.
+-US20 /// Visualizacion de las caracteristicas de la aplicación en el Landing Page /// Como visitante del Landing Page quiero visualizar las características que tiene la aplicación móvil GPATH 
+-US22 /// Descargar la aplicación en la tienda de del sistema operativo mediante el Landing Page/// Como visitante del Landing Page quiero descargar la aplicación mediante la tienda de aplicaciones móviles de mi dispositivo.
+-US24 /// Presenta opcion de descarga en el Landing Page  /// Como visitante del Landing Page, quiero que esta me presente una opción para descargar la aplicación móvil.  
+-US26 /// Funcionalidades de la aplicación en el Landing Page /// Como visitante del Landing Page quiero conocer cuáles son las funcionalidades principales de la aplicación GPATH.
+-US17 /// Interfaz sencilla para interactuar /// Como usuario de la aplicacion quiero una interfaz sencilla de utilizar.
+-US19 /// Metodos de pago en la aplicacion /// 	Como usuario de la aplicacion quiero registrar los diferentes metodos de pago en la aplicacion.
+-US21 /// Registro de promociones para dueño de negocios /// Como dueño de un negocio de un lugar turistico de la aplicacion quiero un apartado para registrar las promociones de mis productos.
+-US11 /// Registro de personas de tipo turista y dueño /// Como administrador de la aplicacion quiero un registro de las personas que se registraron como usuario turista y dueño de negocio.
+-US14 /// Registro de negocios con puntuacion alta /// Como administrador de la aplicacion quiero obtener la informacion  de negocios con puntuacion alta.
+-US13 /// Incorporacion de Imágenes de negocio  /// Como dueño de negocio en un lugar turistico quiero agregar imagenes de mi negocio en la aplicacion.
+-US15 /// Selección de caracteristicas de clientes  /// Como dueño de negocio quiero seleccionar  caracteristicas de los tipos de clientes que quiero llegar en la aplicacion.
+-US29 /// Seccion de reseñas de lugares turisticos /// 	Como dueño de negocio quiero agregar reseñas sobre los lugares turisticos en la aplicacion.
+
+
+
+        
